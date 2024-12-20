@@ -103,7 +103,7 @@ nav ul li a:hover {
 .welcome {
   display: block;
   width: 50%;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 .welcome h4 {
   font-size: 1.875rem;
@@ -383,9 +383,7 @@ nav ul li a:hover {
   .hero .welcome {
     font-size: 3rem;
   }
-  .her .welcome .btn {
-    
-  }
+  
   .about {
     flex-direction: column-reverse;
   }
