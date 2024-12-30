@@ -17,7 +17,6 @@ section {
   --warna-utama: #16a34a;
 }
 body {
-  overflow-x: hidden;
   font-family: sans-serif;
   background-color: #eee;
   overflow-x: hidden;
@@ -294,6 +293,7 @@ nav ul li a:hover {
 }
 .portofolio-layer p {
   font-size: 0.85rem;
+  color: #eaeaea;
 }
 .portofolio-layer a {
   display: inline-flex;
@@ -383,7 +383,7 @@ nav ul li a:hover {
   .hero .welcome {
     font-size: 3rem;
   }
-  
+
   .about {
     flex-direction: column-reverse;
   }
